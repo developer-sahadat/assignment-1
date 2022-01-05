@@ -1,0 +1,68 @@
+/*-----------------------------
+        common style 
+------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: #FFAD5A;
+}
+
+.btn {
+    padding: 10px 40px;
+    background-image: linear-gradient(to right, #FF5959, #FFAD5A);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+
+
+/*--------------Hire me Section start now---------------*/
+.hire-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.hire-text-section {
+    width: 50%;
+    padding-left: 120px;
+}
+
+.hire-text-section h1 {
+    line-height: 1.30;
+    padding-bottom: 25px;
+    padding-top: 45px;
+
+}
+
+.hire-text-section p {
+    color: rgb(34, 34, 34);
+    line-height: 1.50;
+    padding-bottom: 15px;
+}
+
+.scroll-para {
+    padding-top: 45px;
+}
+
+.hire-image-section {
+    width: 50%;
+}
+
+.hire-image-section img {
+    width: 60%;
+}
