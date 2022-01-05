@@ -188,3 +188,54 @@ span {
 .personal-img img {
     width: 85%;
 }
+
+/*---------our service section start now--------*/
+.service-section {
+    margin: 100px 0;
+}
+
+.service-section h2 {
+    font-size: 45px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.service {
+    display: flex;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.service-item {
+    width: 35%;
+    box-shadow: 5px 9px 30px rgb(219, 217, 217);
+    margin: 15px;
+    text-align: center;
+    padding: 25px;
+}
+
+.service-item img {
+    padding-top: 20px;
+}
+
+.service-item h3 {
+    font-size: 23px;
+    line-height: 2;
+    color: rgb(59, 59, 59);
+    padding-bottom: 10px;
+}
+
+.service-item p {
+    font-size: 15px;
+    color: gray;
+    line-height: 1.50;
+}
+
+.service-item a {
+    padding: 8px 30px;
+    background-image: linear-gradient(to right, #FF5959, #FFAD5A);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    line-height: 5;
+}
