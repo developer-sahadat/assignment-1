@@ -192,8 +192,25 @@ span {
     font-size: 17px;
 }
 
-.personal-img img {
+.personal-img {
+    position: relative;
+}
+
+.shapes {
+    position: absolute;
+    top: 350px;
+    left: 350px;
+    z-index: -1;
+
+}
+
+.shapes img {
+    width: 200px;
+}
+
+.personal-images {
     width: 85%;
+    z-index: 1;
 }
 
 /*---------our service section start now--------*/
