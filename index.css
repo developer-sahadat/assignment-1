@@ -239,3 +239,22 @@ span {
     border-radius: 10px;
     line-height: 5;
 }
+
+
+/*-------------Footer section start now------------*/
+.footer-section {
+    padding: 40px;
+    text-align: center;
+    background: #0B0D17;
+
+}
+
+.footer-section h2 {
+    line-height: 2;
+    color: white;
+    font-size: 30px;
+}
+
+.footer-section p {
+    color: gray;
+}
