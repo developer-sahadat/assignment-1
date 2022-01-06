@@ -259,7 +259,9 @@ span {
 .footer-section h2 {
     line-height: 2;
     color: white;
-    font-size: 30px;
+    font-size: 35px;
+    padding-bottom: 10px;
+    font-family: 'Lobster', cursive;
 }
 
 .footer-section p {
